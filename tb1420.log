@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Last login: Sat Apr 14 15:53:32 on ttys003
 Vic:~ limanwen$ cd ~/Documents/GitHub/DS1004_clone
 Vic:DS1004_clone limanwen$ git push
@@ -79,6 +80,27 @@ ml5885
 * | 0f58f09 test1 file added
 |/
 * d266958 first commit
+
+ms6771
+*   7fed1ff merge testing into testing2
+|\
+| *   d49d0b0 merge master into testing
+| |\
+| * | 6536eba 4th commit testing
+* | |   726bcbb merge master into testing2
+|\ \ \
+| | |/
+| |/|
+| * |   c6fa4d2 merge testing into master
+| |\ \
+| | |/
+| | * 6be1e63 3rd commit testing
+* | | 05b5bb6 5th commit testing2
+|/ /
+* | d3749ea 2nd commit master
+|/
+* 7c641f1 1st commit master
+
 tb1420
 *   f4f4f88 Merge branch 'merge_rollb1'
 |\  
@@ -100,23 +122,3 @@ tb1420
 * | cd20ee6 2nd commit (2nd on master).
 |/  
 * 151a92c 1st commit (1st on master).
-
-ms6771
-*   7fed1ff merge testing into testing2
-|\
-| *   d49d0b0 merge master into testing
-| |\
-| * | 6536eba 4th commit testing
-* | |   726bcbb merge master into testing2
-|\ \ \
-| | |/
-| |/|
-| * |   c6fa4d2 merge testing into master
-| |\ \
-| | |/
-| | * 6be1e63 3rd commit testing
-* | | 05b5bb6 5th commit testing2
-|/ /
-* | d3749ea 2nd commit master
-|/
-* 7c641f1 1st commit master
